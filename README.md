@@ -1,2 +1,2 @@
-# Data-analysis-project
-This repository is has all the code used for a data analysis project based in the analysis of Boardgame data.
+# Data-analysis-projects
+This repository contains a collection of basic data analysis projects using python. 
